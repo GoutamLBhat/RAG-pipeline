@@ -1,0 +1,25 @@
+
+AI (Artificial Intelligence) is a field of computer science that focuses on creating machines or software that can perform tasks that normally require human intelligence.
+
+In simple terms, AI is about making computers “think” or “act smart.”\n
+
+What can AI do?
+
+AI systems can:\n
+
+Understand language (like chatbots)
+Recognize images and faces
+Make decisions or predictions
+Learn from experience (this is called machine learning)
+Examples of AI in everyday life
+Voice assistants like Siri or Google Assistant\n
+Recommendation systems on Netflix or YouTube
+Self-driving features in cars
+Spam filters in email
+Types of AI
+Narrow AI: Designed for specific tasks (most AI today)
+General AI: A theoretical system that could do any intellectual task a human can
+Simple idea
+
+Think of AI like teaching a computer to learn patterns and make decisions instead of just following fixed instructions.
+
