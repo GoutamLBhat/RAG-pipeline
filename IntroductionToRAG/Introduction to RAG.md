@@ -295,3 +295,5 @@ A **Vector DB** stores these vectors and helps find similar data quickly.
 
 
 ![alt text](RAGSteps.png)
+
+![alt text](image.png)
